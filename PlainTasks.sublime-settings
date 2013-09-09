@@ -1,0 +1,14 @@
+{
+  "open_tasks_bullet": "- [ ]", // options: - | ❍ | ❑ | ■ | □ | ☐ | ▪ | ▫ | – | — ≡ → ›
+  "done_tasks_bullet": "- [x]", // options: + | ✓ | ✔
+  "cancelled_tasks_bullet": "- [-]", // options: x | ✘
+  "extensions":
+  [
+    "TODO",
+    "todo",
+    "todolist",
+    "taskpaper",
+    "tasks",
+    "md"
+  ]
+}
